@@ -20,4 +20,4 @@ This project is a lottery prediction algorithm designed to analyze historical lo
 ### Clone the Repository
 ```sh
 git clone (https://github.com/Elastic21/Lottery.git)
-cd LotteryPrediction
+cd Lottery
